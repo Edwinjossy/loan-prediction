@@ -1,6 +1,6 @@
 ## Loan Approval Prediction Webapp
 
-This repository consists of files required for implementation and deployment of Loan Approval Prediction.
+This repository consists of files required for implementation and deployment of Loan Approval Prediction webapp.
 
 
 ## Data:
